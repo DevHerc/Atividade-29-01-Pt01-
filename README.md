@@ -1,4 +1,3 @@
-# ATV02MicrocontroladoresGPIO
 Simulador de Semáforo com Raspberry Pi Pico 🚦
 Este código implementa um simulador de semáforo utilizando um Raspberry Pi Pico e três LEDs para representar as cores vermelho, amarelo e verde. O sistema troca os LEDs em um ciclo de 3 segundos para cada cor. Vamos aprender a rodar e entender esse código! 👇
 
